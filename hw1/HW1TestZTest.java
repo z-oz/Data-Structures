@@ -31,7 +31,6 @@ public class HW1TestZTest {
 		st.put("z", 43);
 		st.put("w", 5);
 		st.put("s", 2);
-//		System.out.println(st.);
 	}
 
 	//@Test(expected = IllegalArgumentException.class)
