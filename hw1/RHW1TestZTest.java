@@ -155,6 +155,7 @@ public class RHW1TestZTest {
 			
 		
 		}
+		// 9. The iterator returned by keys() provides the keys in increasing order.
 		//10.  Null is not a valid key.  Your code should behave as before your
 		//     changes and throw an IllegalArgumentException when null is given as a
 		//     key to any method. 
